@@ -1,17 +1,4 @@
-## Greetings, this is my profile.
-If you can read this is 'cause you're interested in getting to know me better.
-At the moment i'm writing this, i'm 19 years old studying in my 3rd semester at college, so i've only learned the basics in terms of programming, therefore i'm enthusiastic in learning more stuff about topics i consider intriguing, such like:
-  
-  -Cybersegurity
-  
-  -Data Analysis
-  
-  -Blockchains
 
-  
-I currently don't know pretty much about theses subjects, so help would be appreciated!
-
-Also, i'm really into games (sadly, due college i don't have time enough to play as much i'd like), i really have fun playing heavely strategic games, such like Fire Emblem, Warhammer 40K: Dawn of War, Valkyria Chronicles, etc.
 
 
 <!--
